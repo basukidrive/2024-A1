@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Testing"
     id="id-3b5c40f7311a43d684c1fcabd7bcfee5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -14,5 +14,17 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-72bc11b056bf40a5b03d970be292e5ff.xml#id-72bc11b056bf40a5b03d970be292e5ff"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e5c3b3d2db014f1a9a7f3882c24cb441">
+    <bounds
+        x="198"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-7856d756ae4940078dc8fe04f70c6d20.xml#id-7856d756ae4940078dc8fe04f70c6d20"/>
   </children>
 </archimate:ArchimateDiagramModel>
