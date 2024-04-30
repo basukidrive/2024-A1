@@ -7,6 +7,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-777b4a629f2c4ad8aff38ebffec19ce5"
       targetConnections="id-3edc29a9375f4a4e88abc15c45e843e6 id-c4faab1470de4fff84e88b581c79b162">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-32a2228f7697493ba580a877fbdc8dda"
+        source="id-777b4a629f2c4ad8aff38ebffec19ce5"
+        target="id-6fe770e7dbe844c4ab9c314f2704f6a7">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-66305e6c7621495f8629061398a9ea66.xml#id-66305e6c7621495f8629061398a9ea66"/>
+    </sourceConnections>
     <bounds
         x="108"
         y="180"
@@ -19,7 +28,16 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6fe770e7dbe844c4ab9c314f2704f6a7"
-      targetConnections="id-f59b5910aaa748839e29c58e6df3d600 id-e7eb4c8c37a04632968237943b700b2d id-e4d7b8cbd677470ea4355821810d93ac id-0485251df00a4abe92cd5aa3925edf7f">
+      targetConnections="id-f59b5910aaa748839e29c58e6df3d600 id-e7eb4c8c37a04632968237943b700b2d id-e4d7b8cbd677470ea4355821810d93ac id-0485251df00a4abe92cd5aa3925edf7f id-32a2228f7697493ba580a877fbdc8dda">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8e977a8c8e0d42a3b85cf16f7a41cc29"
+        source="id-6fe770e7dbe844c4ab9c314f2704f6a7"
+        target="id-f5f5bfa9f27247cf8871fad6f6077d31">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-88e82b5ec8fb472c83295ad1d02287ce.xml#id-88e82b5ec8fb472c83295ad1d02287ce"/>
+    </sourceConnections>
     <bounds
         x="492"
         y="180"
@@ -32,7 +50,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f5f5bfa9f27247cf8871fad6f6077d31"
-      targetConnections="id-f2ede3b9fe0145559267b56c7fa942bf id-21a823bb7fc34f369aad375f4cf24613">
+      targetConnections="id-f2ede3b9fe0145559267b56c7fa942bf id-21a823bb7fc34f369aad375f4cf24613 id-8e977a8c8e0d42a3b85cf16f7a41cc29">
     <bounds
         x="876"
         y="180"
