@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-aa88ae7ec5474d198c3d4d4e7c9042df">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6317dc5de4714b74a5d856b27cc4f8a6">
+    <bounds
+        x="434"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-c32f581a507549dfb8a1741e30dea2ae.xml#id-c32f581a507549dfb8a1741e30dea2ae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e590e4a06bd046e28552d886b796d544">
+    <bounds
+        x="522"
+        y="374"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-b3d1e74cca4a43a1b1e5eb981f083a10.xml#id-b3d1e74cca4a43a1b1e5eb981f083a10"/>
+  </children>
+</archimate:ArchimateDiagramModel>
