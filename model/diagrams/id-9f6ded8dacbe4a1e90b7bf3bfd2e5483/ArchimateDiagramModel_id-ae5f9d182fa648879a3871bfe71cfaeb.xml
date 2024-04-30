@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. Application Usage"
-    id="id-ae5f9d182fa648879a3871bfe71cfaeb"/>
+    id="id-ae5f9d182fa648879a3871bfe71cfaeb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-777b4a629f2c4ad8aff38ebffec19ce5">
+    <bounds
+        x="108"
+        y="96"
+        width="289"
+        height="68"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-8a6990597c9b465cbbd9eb65f0763a46.xml#id-8a6990597c9b465cbbd9eb65f0763a46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6fe770e7dbe844c4ab9c314f2704f6a7">
+    <bounds
+        x="492"
+        y="96"
+        width="289"
+        height="68"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-c5c41638363f4e478ad37e9009e1fee2.xml#id-c5c41638363f4e478ad37e9009e1fee2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f5f5bfa9f27247cf8871fad6f6077d31">
+    <bounds
+        x="876"
+        y="96"
+        width="289"
+        height="68"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-2b11cd3d33ce440fa13fd75d4719f058.xml#id-2b11cd3d33ce440fa13fd75d4719f058"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6cf0c30e00434b8982d31d59427fa9cd">
+    <bounds
+        x="171"
+        y="250"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6f372c52d5aa4506b67a03d710da671c.xml#id-6f372c52d5aa4506b67a03d710da671c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
