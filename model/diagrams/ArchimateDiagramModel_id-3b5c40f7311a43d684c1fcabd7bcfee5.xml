@@ -5,70 +5,10 @@
     id="id-3b5c40f7311a43d684c1fcabd7bcfee5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0f517ee228664e01a7b916ebed711e2b">
-    <bounds
-        x="56"
-        y="80"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-72bc11b056bf40a5b03d970be292e5ff.xml#id-72bc11b056bf40a5b03d970be292e5ff"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e5c3b3d2db014f1a9a7f3882c24cb441">
-    <bounds
-        x="198"
-        y="96"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-7856d756ae4940078dc8fe04f70c6d20.xml#id-7856d756ae4940078dc8fe04f70c6d20"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-83d4e108374d42d3b63e4fb285c5e7ad">
-    <bounds
-        x="192"
-        y="192"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-37a91fffb2d74e56ab18abc6ee0a324f.xml#id-37a91fffb2d74e56ab18abc6ee0a324f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-68b79a8b1224448aa3834a7090886c52">
-    <bounds
-        x="360"
-        y="72"
-        width="180"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-58be436ae6c84d319d26c88f6bb327c9.xml#id-58be436ae6c84d319d26c88f6bb327c9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1d1e72835485471385ab0a215fb6bda8">
-    <bounds
-        x="635"
-        y="387"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-76fd7b54420740a3ba91ef57c24fdfad.xml#id-76fd7b54420740a3ba91ef57c24fdfad"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ac3a67a681004ec58c5d19b9d14b8e58">
     <bounds
-        x="356"
-        y="362"
+        x="36"
+        y="60"
         width="120"
         height="55"/>
     <archimateElement
