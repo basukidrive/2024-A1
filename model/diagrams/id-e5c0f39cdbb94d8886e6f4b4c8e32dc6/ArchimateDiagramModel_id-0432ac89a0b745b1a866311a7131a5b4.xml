@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principles"
+    id="id-0432ac89a0b745b1a866311a7131a5b4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-30c222085d5b45d0b834248eb287c0c2">
+    <bounds
+        x="787"
+        y="272"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-11042d351bb5483383a7554d6ddfa80d.xml#id-11042d351bb5483383a7554d6ddfa80d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
