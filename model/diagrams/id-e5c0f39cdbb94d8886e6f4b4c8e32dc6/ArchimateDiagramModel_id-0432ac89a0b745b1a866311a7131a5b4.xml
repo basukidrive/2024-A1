@@ -5,14 +5,67 @@
     id="id-0432ac89a0b745b1a866311a7131a5b4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-30c222085d5b45d0b834248eb287c0c2">
+      id="id-d93e164008f84a10ae8107d157b45546"
+      textAlignment="1">
     <bounds
-        x="168"
-        y="144"
-        width="120"
-        height="55"/>
+        x="48"
+        y="84"
+        width="673"
+        height="145"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-11042d351bb5483383a7554d6ddfa80d.xml#id-11042d351bb5483383a7554d6ddfa80d"/>
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-218a631babf44a9088b1f92aa6ac00bf.xml#id-218a631babf44a9088b1f92aa6ac00bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2a8973a282874029b01212678688d975"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="252"
+        width="253"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-05e85f39d3ed4f02971a013e81fefaae.xml#id-05e85f39d3ed4f02971a013e81fefaae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b0dd95c2bae4da1a0cf590bf7db609d"
+      textAlignment="1">
+    <bounds
+        x="312"
+        y="252"
+        width="253"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-374557b03dbf42ecbf25a7be150073e7.xml#id-374557b03dbf42ecbf25a7be150073e7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c3de779bf1674bbebbac61f28907b1d2"
+      textAlignment="1">
+    <bounds
+        x="756"
+        y="252"
+        width="253"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-4ad7de601f1444b789675cc1e8f7601a.xml#id-4ad7de601f1444b789675cc1e8f7601a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1d4afd3aa65c4518b6a488acebb85db5"
+      textAlignment="1">
+    <bounds
+        x="408"
+        y="348"
+        width="253"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-468354e3b102443fbd9bcc8470a9fc96.xml#id-468354e3b102443fbd9bcc8470a9fc96"/>
   </children>
 </archimate:ArchimateDiagramModel>
