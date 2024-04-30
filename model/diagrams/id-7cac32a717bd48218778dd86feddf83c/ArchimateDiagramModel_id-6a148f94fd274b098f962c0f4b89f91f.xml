@@ -1,4 +1,62 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5. Business Process Catalogue"
-    id="id-6a148f94fd274b098f962c0f4b89f91f"/>
+    id="id-6a148f94fd274b098f962c0f4b89f91f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3907d6bbb44b46c7b0d6f46ef40c3459"
+      targetConnections="id-c4e747a5a1fd46d7857d9f70dae776eb id-95d8b2b503084912b88f4f701cdc544a"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="72"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-626891bfb58145a9b92f8240bb19e81a">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c4e747a5a1fd46d7857d9f70dae776eb"
+          source="id-626891bfb58145a9b92f8240bb19e81a"
+          target="id-3907d6bbb44b46c7b0d6f46ef40c3459">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-4cb117f217084324b43e85ac7ba03c6e.xml#id-4cb117f217084324b43e85ac7ba03c6e"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-aef0be302d234144bf57c745e0f11e6d.xml#id-aef0be302d234144bf57c745e0f11e6d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e224b1b78e8d4bdfb3206f2f4e989f13">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-95d8b2b503084912b88f4f701cdc544a"
+          source="id-e224b1b78e8d4bdfb3206f2f4e989f13"
+          target="id-3907d6bbb44b46c7b0d6f46ef40c3459">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-f8c0aa6a28dc41228f9f8bf3e0919243.xml#id-f8c0aa6a28dc41228f9f8bf3e0919243"/>
+      </sourceConnections>
+      <bounds
+          x="144"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-4465dd5d33d643d89a8bdf1d59030160.xml#id-4465dd5d33d643d89a8bdf1d59030160"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-8e062bd02a2a4182b88f441e64912390.xml#id-8e062bd02a2a4182b88f441e64912390"/>
+  </children>
+</archimate:ArchimateDiagramModel>
