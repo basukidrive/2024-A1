@@ -67,7 +67,8 @@
           height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-288fe546a01e4c42b8f605e27ebe138e">
+          id="id-288fe546a01e4c42b8f605e27ebe138e"
+          fillColor="#c0c0c0">
         <bounds
             x="24"
             y="48"
