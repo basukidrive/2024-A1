@@ -383,7 +383,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="588"
+        y="576"
         width="120"
         height="55"/>
     <archimateElement
@@ -421,9 +421,22 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-7be25a87fb7f41c2a98c0bc6b7b544e1.xml#id-7be25a87fb7f41c2a98c0bc6b7b544e1"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e5a45eb4aab548e1a144bbd30d490d21"
+        source="id-2cc075f90c0843f7b3958a7b562605ca"
+        target="id-8704decf41784a1db62289935a5d46ea">
+      <bendpoints
+          startX="504"
+          startY="-3"
+          endY="-102"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-f36f4783a4824b599117996a56e76602.xml#id-f36f4783a4824b599117996a56e76602"/>
+    </sourceConnections>
     <bounds
         x="216"
-        y="588"
+        y="576"
         width="120"
         height="55"/>
     <archimateElement
@@ -436,7 +449,7 @@
       targetConnections="id-5f5f03307507478599f0f6ddddcd94bc">
     <bounds
         x="360"
-        y="672"
+        y="660"
         width="145"
         height="85"/>
     <archimateElement
@@ -449,11 +462,24 @@
       targetConnections="id-4108993af1424b66b7e03d4553961865">
     <bounds
         x="528"
-        y="672"
+        y="660"
         width="145"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-bdd27c2caa41406683838a5eea1312a9.xml#id-bdd27c2caa41406683838a5eea1312a9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8704decf41784a1db62289935a5d46ea"
+      targetConnections="id-e5a45eb4aab548e1a144bbd30d490d21">
+    <bounds
+        x="708"
+        y="660"
+        width="145"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-fa5f24259bb148cf8dcc61256fe2fd72.xml#id-fa5f24259bb148cf8dcc61256fe2fd72"/>
   </children>
 </archimate:ArchimateDiagramModel>
