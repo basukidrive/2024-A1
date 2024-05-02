@@ -434,7 +434,7 @@
         x="24"
         y="24"
         width="253"
-        height="140"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e03b30f2ac9943209847367d1250b391"
@@ -459,7 +459,7 @@
           targetConnections="id-459bae3d283246888f52c6f91cb5b87b">
         <bounds
             x="12"
-            y="48"
+            y="24"
             width="181"
             height="55"/>
         <archimateElement
