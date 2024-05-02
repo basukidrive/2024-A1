@@ -92,7 +92,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6f73a101371d47239703f526ab5968f8"
-          fillColor="#ff8040">
+          fillColor="#ff0080">
         <bounds
             x="96"
             y="108"
@@ -204,7 +204,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c9596e7ab9ca4080a462fbbabcd8cfc8"
-          fillColor="#ff8040">
+          fillColor="#ff0080">
         <bounds
             x="144"
             y="24"
