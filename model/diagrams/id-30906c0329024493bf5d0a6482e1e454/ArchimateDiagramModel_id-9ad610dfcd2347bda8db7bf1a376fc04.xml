@@ -57,10 +57,9 @@
           source="id-e101b17616de442faf757db1e3ee3ed8"
           target="id-5d607cb6dd1649d0bd1c3a75af1f8a80">
         <bendpoints
-            startX="-180"
-            startY="-3"
-            endX="-12"
-            endY="129"/>
+            startX="-132"
+            startY="-15"
+            endY="141"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-fe6c5bf2d93441f58c2eb41581a32080.xml#id-fe6c5bf2d93441f58c2eb41581a32080"/>
