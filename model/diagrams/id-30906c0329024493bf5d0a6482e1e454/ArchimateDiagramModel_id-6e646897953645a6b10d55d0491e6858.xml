@@ -177,6 +177,18 @@
             xsi:type="archimate:TechnologyCollaboration"
             href="TechnologyCollaboration_id-1501a380008847e6bfdf357ee7335bd7.xml#id-1501a380008847e6bfdf357ee7335bd7"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-11124ac532bd490082cc51d7468c2428">
+        <bounds
+            x="12"
+            y="96"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:TechnologyCollaboration"
+            href="TechnologyCollaboration_id-cf08fa5d2f694b148b414716e0c78245.xml#id-cf08fa5d2f694b148b414716e0c78245"/>
+      </children>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-659a2f36979641be9ffbf4b31e1dc1c5.xml#id-659a2f36979641be9ffbf4b31e1dc1c5"/>

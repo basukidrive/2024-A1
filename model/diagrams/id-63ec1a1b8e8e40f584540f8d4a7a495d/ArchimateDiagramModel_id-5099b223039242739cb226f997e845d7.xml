@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Data Entity"
+    name="1. Data Model"
     id="id-5099b223039242739cb226f997e845d7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
