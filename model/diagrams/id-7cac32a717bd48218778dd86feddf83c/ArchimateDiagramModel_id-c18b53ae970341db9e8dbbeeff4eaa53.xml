@@ -746,4 +746,28 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-ed4aa28fee184ca287f2c7f3ff174a36.xml#id-ed4aa28fee184ca287f2c7f3ff174a36"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6bc5f0f373514f4880ede075ad6b6f05"
+      textAlignment="1"
+      fillColor="#ffff9b"
+      content="Legacy">
+    <bounds
+        x="600"
+        y="600"
+        width="161"
+        height="32"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5f27f7e4bdc84d7ca6fff4781e20929e"
+      textAlignment="1"
+      fillColor="#ff80c0"
+      content="To Be">
+    <bounds
+        x="776"
+        y="600"
+        width="161"
+        height="32"/>
+  </children>
 </archimate:ArchimateDiagramModel>
