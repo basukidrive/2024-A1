@@ -260,4 +260,28 @@
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-1135b6873c1c49489db4a06a53b189df.xml#id-1135b6873c1c49489db4a06a53b189df"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dad7ed6339544426aa2f4541a7edb7dc"
+      textAlignment="1"
+      fillColor="#80ff80"
+      content="as is">
+    <bounds
+        x="845"
+        y="60"
+        width="71"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bdc1ca52c1104f929b2dd4e0aac8ee33"
+      textAlignment="1"
+      fillColor="#ff0080"
+      content="to be">
+    <bounds
+        x="845"
+        y="96"
+        width="71"
+        height="25"/>
+  </children>
 </archimate:ArchimateDiagramModel>
