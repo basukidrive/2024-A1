@@ -35,8 +35,8 @@
           href="RealizationRelationship_id-0e9555050d8e4f3da0cfdf1898351ac1.xml#id-0e9555050d8e4f3da0cfdf1898351ac1"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="60"
+        x="36"
+        y="36"
         width="133"
         height="169"/>
     <children
@@ -114,8 +114,8 @@
           href="RealizationRelationship_id-51dc5e1cdadf433e983d7b63a0a1b105.xml#id-51dc5e1cdadf433e983d7b63a0a1b105"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="60"
+        x="276"
+        y="36"
         width="120"
         height="181"/>
     <children
