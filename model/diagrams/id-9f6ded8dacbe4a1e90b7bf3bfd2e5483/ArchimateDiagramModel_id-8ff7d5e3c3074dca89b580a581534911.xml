@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. Application Cooperation"
-    id="id-8ff7d5e3c3074dca89b580a581534911">
+    id="id-8ff7d5e3c3074dca89b580a581534911"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6ef4fc80bca4ed99517ad3a0f13790f"
